@@ -2,11 +2,11 @@ import React from "react";
 
 const Header = () => {
     return (
-        <div class="card m-3">
+        <div class="card mt-3 container">
             <div class="card-body">
-                <h1 class="card-title">A Warm Welcome</h1>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente consectetur tenetur aperiam reiciendis fuga libero quasi, quo nobis maxime porro similique impedit consequatur culpa illum dolores recusandae nulla molestiae natus.</p>
-                <a href="#" class="btn btn-primary">Call to action!</a>
+                <h1 class="card-title display-1">Bienvenido al Hall Of Fame</h1>
+                <p class="card-text display-4">Estaremos viendo unas de las mejores bandas de rock'n'roll en el mundo</p>
+                <a href="#" class="btn btn-primary">Lo mejor de año anterior</a>
             </div>
         </div>
     )
