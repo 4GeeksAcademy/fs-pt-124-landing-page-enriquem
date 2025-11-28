@@ -12,5 +12,7 @@
 body{
     background-color: black;
 }
-.copyRight{
+
+.wikiBottom {
+    align-self: center;
 }
